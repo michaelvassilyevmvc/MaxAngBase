@@ -1,0 +1,9 @@
+1. Add a input field which updates a property ('username') via Two-Way-Binding
+2. Output the username property via String Interpolation (in a paragraph below the input)
+3. Add a button which may only be clicked if the username is NOT an empty string
+4. Upon clicking the button, the username should be reset to an empty string
+
+1. Добавить поле ввода которое обновляет свойство username с помощью двусторонней привязки
+2. Выведите свойство username с помощью интерполяции строк (в абзаце под полем ввода)
+3. Добавить кнопку которая может быть нажатой только если свойство username НЕ является пустой строкой
+4. При нажатии кнопки, свойство username должно быть сброшено в пустую строку
