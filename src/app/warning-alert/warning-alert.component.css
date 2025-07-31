@@ -1,0 +1,24 @@
+/* warning-alert.component.css */
+.warning-alert {
+  padding: 15px 20px;
+  background-color: #fff3cd;
+  color: #856404;
+  border: 1px solid #ffeeba;
+  border-radius: 4px;
+  margin: 10px 0;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+.warning-alert .close-btn {
+  float: right;
+  background: none;
+  border: none;
+  color: #856404;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.warning-alert .close-btn:hover {
+  color: #5a3b02;
+}

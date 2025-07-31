@@ -1,0 +1,24 @@
+/* success-alert.component.css */
+.success-alert {
+  padding: 15px 20px;
+  background-color: #d4edda;
+  color: #155724;
+  border: 1px solid #c3e6cb;
+  border-radius: 4px;
+  margin: 10px 0;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+.success-alert .close-btn {
+  float: right;
+  background: none;
+  border: none;
+  color: #155724;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.success-alert .close-btn:hover {
+  color: #0c3a1a;
+}
